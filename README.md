@@ -1,5 +1,5 @@
 # Análise de dados da emissão de CO2
-O presente repositório refere-se ao trabalho da segunda unidade da disciplina **Tópicos Especiais em Tecnologia da Informação VI** (IMD0105), ministrada pelo professor [Ivanovitch Medeiros Dantas da Silva](https://github.com/ivanovitchm).
+O presente repositório refere-se ao trabalho da segunda unidade da disciplina **Tópicos Especiais em Tecnologia da Informação VI** (IMD0105, T01, 2017.1), ministrada pelo professor [Ivanovitch Medeiros Dantas da Silva](https://github.com/ivanovitchm).
 
 Esse trabalho possui como objetivo analisar a emissão de CO2 por carro, especificamente na União Europeia.
 
