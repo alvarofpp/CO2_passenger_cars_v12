@@ -3,7 +3,7 @@ O presente repositório refere-se ao trabalho da segunda unidade da disciplina *
 
 Esse trabalho possui como objetivo analisar a emissão de CO2 por carro, especificamente na União Europeia.
 
-**Componentes**:
+**Discentes**:
 - <a href="https://github.com/alvarofpp">Álvaro Ferreira Pires de Paiva</a>
   - Matrícula: 2016039162
   - E-mail: alvarofepipa@gmail.com
